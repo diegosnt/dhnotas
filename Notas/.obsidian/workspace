@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "2225a58dbda3a245",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdca5595c042a2f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Metodología de Trabajo/Módulo 2.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20e5a4cc827c07ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf109e0054544d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac00164b4d611e8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1c3cc17907988c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 156.0036334991455
+  },
+  "right": {
+    "id": "4355eff75b1a67a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f5177f001ce51c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e94e414a78686d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Metodología de Trabajo/Módulo 2.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cdca5595c042a2f5",
+  "lastOpenFiles": [
+    "Metodología de Trabajo/Módulo 2.md",
+    "Introducción a la informática/Modulo 1/C2A - Interfaz de Usuario - Terminal.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Metodología de Trabajo/Módulo 1.md",
+    "Calendario.md",
+    "Introducción a la informática/Modulo 1/C1A - Introducción.md",
+    "Frontend I/Módulo 1.md",
+    "Frontend I/anexo/Pasted image 20220208065050.png"
+  ]
+}
